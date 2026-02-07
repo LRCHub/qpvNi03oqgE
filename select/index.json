@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "解夏",
+  "base_artist": "WurtS",
+  "createdAt": "2026-02-07T22:49:47.560997Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "解夏",
+      "artist": "华少翌",
+      "has_synced": true,
+      "path": "select/01_解夏_华少翌.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "解夏",
+      "artist": "WurtS",
+      "has_synced": false,
+      "path": "select/pl_01_解夏_WurtS.txt"
+    }
+  ]
+}
